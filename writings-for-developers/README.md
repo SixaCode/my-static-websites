@@ -1,0 +1,1 @@
+This website is based on a Figma public design that can be obtained here: https://www.figma.com/design/nh0V05z3NB87ue9v5PcO3R/writings.dev
